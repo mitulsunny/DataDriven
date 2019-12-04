@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="7" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44648" started-at="2019-12-01T18:37:45Z" finished-at="2019-12-01T18:38:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44648" started-at="2019-12-01T18:37:45Z" finished-at="2019-12-01T18:38:29Z">
+      <class name="com.osa.tests.HomePage">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.osa.tests.HomePage@6f7fd0e6]" name="openBrowser" is-config="true" duration-ms="2892" started-at="2019-12-01T18:37:45Z" finished-at="2019-12-01T18:37:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyForumLogin(java.lang.String, java.lang.String)[pri:3, instance:com.osa.tests.HomePage@6f7fd0e6]" name="verifyForumLogin" duration-ms="8040" started-at="2019-12-01T18:37:48Z" data-provider="myTestData" finished-at="2019-12-01T18:37:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForumLogin -->
+        <test-method status="PASS" signature="verifyForumLogin(java.lang.String, java.lang.String)[pri:3, instance:com.osa.tests.HomePage@6f7fd0e6]" name="verifyForumLogin" duration-ms="5965" started-at="2019-12-01T18:37:56Z" data-provider="myTestData" finished-at="2019-12-01T18:38:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[imon]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7564875]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForumLogin -->
+        <test-method status="PASS" signature="verifyForumLogin(java.lang.String, java.lang.String)[pri:3, instance:com.osa.tests.HomePage@6f7fd0e6]" name="verifyForumLogin" duration-ms="7620" started-at="2019-12-01T18:38:02Z" data-provider="myTestData" finished-at="2019-12-01T18:38:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bbbbb]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bababa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForumLogin -->
+        <test-method status="PASS" signature="verifyForumLogin(java.lang.String, java.lang.String)[pri:3, instance:com.osa.tests.HomePage@6f7fd0e6]" name="verifyForumLogin" duration-ms="7724" started-at="2019-12-01T18:38:10Z" data-provider="myTestData" finished-at="2019-12-01T18:38:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ccccc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cbcbcb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForumLogin -->
+        <test-method status="PASS" signature="verifyForumLogin(java.lang.String, java.lang.String)[pri:3, instance:com.osa.tests.HomePage@6f7fd0e6]" name="verifyForumLogin" duration-ms="6811" started-at="2019-12-01T18:38:18Z" data-provider="myTestData" finished-at="2019-12-01T18:38:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cdcdcd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForumLogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.osa.tests.HomePage@6f7fd0e6]" name="closeBrowser" is-config="true" duration-ms="5120" started-at="2019-12-01T18:38:24Z" finished-at="2019-12-01T18:38:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.osa.tests.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
