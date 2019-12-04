@@ -5,7 +5,7 @@
     <classes>
       <class name="com.osa.tests.HomePage">
         <methods>
-          <include name="verifyForumLogin" invocation-numbers="1 3"/>
+          <include name="verifyForumLogin"/>
           <include name="openBrowser"/>
           <include name="closeBrowser"/>
         </methods>

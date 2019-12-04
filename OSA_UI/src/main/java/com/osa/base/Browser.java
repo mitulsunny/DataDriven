@@ -10,7 +10,7 @@ public class Browser {
 	public static WebDriver dr;
 	@BeforeTest
 	public void openBrowser() {
-		System.setProperty("webdriver.chrome.driver", "src\\main\\resources\\driver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "/Users/mdobaidulla/Desktop/chromedriver");
 		dr=new ChromeDriver();
 	}
 @AfterTest	

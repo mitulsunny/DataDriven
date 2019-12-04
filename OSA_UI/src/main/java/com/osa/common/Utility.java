@@ -33,7 +33,7 @@ public class Utility extends Browser{
 	public Object[][] getData(){
 		Object object[][]=null;
 		try {
-			object= ExcelRead.getTestData("C:\\Users\\rahma\\Desktop\\TestData.xlsx","loginTestData");
+			object= ExcelRead.getTestData("/Users/mdobaidulla/Desktop/TestData.xlsx","LoginData");
 		} catch (IOException e) {
 			
 			e.printStackTrace();

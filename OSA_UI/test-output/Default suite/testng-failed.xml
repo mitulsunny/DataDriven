@@ -6,10 +6,8 @@
       <class name="com.osa.tests.HomePage">
         <methods>
           <include name="verifyForumLogin"/>
-          <include name="clickOnForumLoginButton"/>
           <include name="openBrowser"/>
           <include name="closeBrowser"/>
-          <include name="verifyHomePageTitle"/>
         </methods>
       </class> <!-- com.osa.tests.HomePage -->
     </classes>
